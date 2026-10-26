@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM ghcr.io/linuxserver/unrar:latest AS unrar
+FROM ghcr.io/linuxserver-playground/unrar:latest AS unrar
 
 FROM ghcr.io/by275/libtorrent:2-alpine3.23 AS libtorrent
 
