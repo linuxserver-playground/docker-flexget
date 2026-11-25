@@ -298,9 +298,9 @@ libattr                          2.5.2-r2                                       
 libbsd                           0.12.2-r0                                                apk                              
 libbz2                           1.0.8-r6                                                 apk                              
 libc                             0.2.186                                                  rust-crate      (+1 duplicate)   
-libcrypto3                       3.5.9-r0                                                 apk                              
+libcrypto3                       3.5.9-r1                                                 apk                              
 libcurl                          8.23.0-r0                                                apk                              
-libexpat                         2.10.0-r0                                                apk                              
+libexpat                         2.11.0-r0                                                apk                              
 libffi                           3.8.1-r0                                                 apk                              
 libgcc                           14.2.0-r6                                                apk                              
 libgcc                           15.2.0-r2                                                apk                              
@@ -312,7 +312,7 @@ libncursesw                      6.5_p20251123-r0                               
 libpanelw                        6.5_p20251123-r0                                         apk                              
 libproc2                         4.0.5-r0                                                 apk                              
 libpsl                           0.21.5-r3                                                apk                              
-libssl3                          3.5.9-r0                                                 apk                              
+libssl3                          3.5.9-r1                                                 apk                              
 libstdc++                        15.2.0-r2                                                apk                              
 libtorrent                       2.1.1                                                    python                           
 libunistring                     1.4.1-r0                                                 apk                              
@@ -735,7 +735,7 @@ zlib                             1.4-r0                                         
 zlib-rs                          0.6.3                                                    rust-crate      (+1 duplicate)   
 zmij                             1.0.21                                                   rust-crate      (+1 duplicate)   
 zstd                             0.13.3                                                   rust-crate      (+1 duplicate)   
-zstd-libs                        1.5.7-r2                                                 apk                              
+zstd-libs                        1.6.0-r0                                                 apk                              
 zstd-safe                        7.2.4                                                    rust-crate      (+1 duplicate)   
 zstd-sys                         2.0.16+zstd.1.5.7                                        rust-crate      (+1 duplicate)   
 zvariant                         5.11.0                                                   rust-crate      (+1 duplicate)   
